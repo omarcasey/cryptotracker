@@ -9,7 +9,12 @@ The Crypto Tracker App is a web application that allows users to track the price
 - Integration with RapidAPI for reliable and accurate data
 ## Technologies Used
 React: a popular JavaScript library for building user interfaces
+
 Redux: a predictable state container for managing application data
+
 Chart.js: a powerful charting library for creating data visualizations
+
 Ant Design: a UI library with customizable and responsive components
+
 RapidAPI: a platform that provides APIs for various data sources
+
