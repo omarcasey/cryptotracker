@@ -22,9 +22,9 @@ RapidAPI: a platform that provides APIs for various data sources
 
 
 ## Home Page
-
+![cryptotracker home](https://user-images.githubusercontent.com/90979468/220243990-1e4b600f-a6b2-4468-9ef1-113a1033500d.png)
 ## Cryptocurrency Search Page
 ![cryptoverse pic](https://user-images.githubusercontent.com/90979468/220233553-c8d00b57-d057-4d55-9d0c-1218a09a9dc6.png)
 ## Cryptocurrency Details Page
-
+![cryptotracker details](https://user-images.githubusercontent.com/90979468/220243955-ccfba02f-e485-46f0-ace7-e2eb6c13c35e.png)
 ## News Page
