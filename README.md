@@ -1,7 +1,7 @@
 # Crypto Tracker App
 The Crypto Tracker App is a web application that allows users to track the prices and performance of various cryptocurrencies. The app uses real-time data from RapidAPI to display accurate information about different cryptocurrencies, including Bitcoin, Ethereum, and Litecoin.
 
-## [Link to Deployed Site](https://ocasey-cryptotracker.netlify.app/)
+## [Link to Deployed Site](https://cryptoscope-tracker.netlify.app/)
 
 ## Features
 - Live price updates for various cryptocurrencies
